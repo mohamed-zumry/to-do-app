@@ -1,0 +1,20 @@
+# Laravel specific
+/vendor
+/node_modules
+/.env
+/public/storage
+/storage/*.key
+
+# Composer PHAR
+composer.phar
+
+# Laravel Mix
+/public/hotgit s
+/public/mix-manifest.json
+
+# IDE files
+/.idea
+/.vscode
+
+# Logs
+*.log
