@@ -87,7 +87,7 @@ Run all migrations to set up the necessary tables.
 
 Run the database seeder to create the demo user with the following credentials:
 
-Email: demo@innodata.com
+Email: demo@test.com
 
 Password: 1234
 
